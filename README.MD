@@ -34,11 +34,6 @@ The [Haxe](http://haxe.org/) logo is licensed under [GPL](http://www.gnu.org/lic
 
 ----------
 
-**Version** 0.1
-**Author:** JohnDimi, <johndimi@outlook.com>, twitter:[@jondmt](https://twitter.com/jondmt)  
-**Date started:** 04-2015
-
-
 [big_txt]: https://raw.githubusercontent.com/johndimi/HAXEAnimLogo/master/gif/logotext_big.gif
 [med_txt]: https://raw.githubusercontent.com/johndimi/HAXEAnimLogo/master/gif/logotext_med.gif
 [sml_txt]: https://raw.githubusercontent.com/johndimi/HAXEAnimLogo/master/gif/logotext_sml.gif
